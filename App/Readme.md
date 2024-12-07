@@ -1,6 +1,5 @@
 
 
-```markdown
 # Flask API for Product Management
 
 ## Overview
